@@ -1,0 +1,2 @@
+Gi, GigabitEthernet
+Fa, FastEthernet
