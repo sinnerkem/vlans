@@ -1,0 +1,5 @@
+interface {interface_name}
+description {description}
+switchport mode access
+switchport access vlan {vlan}
+spanning-tree portfast
